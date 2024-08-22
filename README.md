@@ -2,6 +2,8 @@
 
 This repository contains a modified version of the default 1.0 OPL theme (also known as Korium).
 
+<img src=".github/photo.jpg" width="403" height="302"/>
+
 ### What's different?
 
 * The GameID is now stored in the Game Info Menu (accessible by pressing Square). This information is placed before the game title.
